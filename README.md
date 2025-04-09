@@ -1,2 +1,3 @@
 # Air_Quality_XGBoost
-A model to predict PM2.5 and PM10
+A XGBRegressor model to predict PM2.5 and PM10.
+Uses 
